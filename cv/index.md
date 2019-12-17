@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Isaac Sarver's CV
 ---
 # Isaac Sarver
