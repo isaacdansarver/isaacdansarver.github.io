@@ -6,8 +6,8 @@ title: Isaac Sarver's CV
 *MA Linguistics student focusing on computational linguistics and NLP*.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/isaacsarver">My Github</a>
+| <a href="https://www.linkedin.com/in/isaac-sarver/">My LinkedIn</a>
 </div>
 
 
