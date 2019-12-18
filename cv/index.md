@@ -13,15 +13,15 @@ title: Isaac Sarver's CV
 
 # Education
 
-`2018-current`  
++ `2018-current`  
 __Michigan State University__  
 Master of Arts,  Linguistics  
 
-`2014-2018`  
++ `2014-2018`  
 __Michigan State University__  
 Bachelor of Music, Viola Performance  
 
-`2010-2014`  
++ `2010-2014`  
 __Home School__  
 High School diploma  
 
@@ -91,13 +91,13 @@ __Instructor of Viola__
 
 
 ## Activities
-`Feb. 2019 - current` *Tutor,* LIN 471 - Sociolinguistics
-`Aug. 2018 - current` *Member,* MSU Linguistics Student Organization
-`Feb. 2018 - current` *Violist (sub),* Lansing Symphony Orchestra
-`Sep. 2019 - Nov. 2019` *Board member (event planning),* Careers and Linguistics at Michigan State
-`Aug. 2018 - Aug. 2019` *Member,* MSU Semantics Group
-`Aug. 2018 - May 2019` *Webmaster, member* MSU PhonoLab
-`Aug. 2018 - May 2019` *Member,* MSU Linguistics Python Group
+`Feb. 2019 - current` *Tutor,* LIN 471 - Sociolinguistics  
+`Aug. 2018 - current` *Member,* MSU Linguistics Student Organization  
+`Feb. 2018 - current` *Violist (sub),* Lansing Symphony Orchestra  
+`Sep. 2019 - Nov. 2019` *Board member (event planning),* Careers and Linguistics at Michigan State  
+`Aug. 2018 - Aug. 2019` *Member,* MSU Semantics Group  
+`Aug. 2018 - May 2019` *Webmaster, member* MSU PhonoLab  
+`Aug. 2018 - May 2019` *Member,* MSU Linguistics Python Group  
 
 
 <!-- ### Footer
