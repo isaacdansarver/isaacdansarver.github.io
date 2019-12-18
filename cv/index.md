@@ -2,7 +2,7 @@
 layout: default
 title: Isaac Sarver's CV
 ---
-# Isaac Sarver
+# CV | Isaac Sarver
 *MA Linguistics student focusing on computational linguistics and NLP*.
 
 <div id="webaddress">
@@ -11,7 +11,7 @@ title: Isaac Sarver's CV
 </div>
 
 
-## Education
+# Education
 
 `2018-current`  
 __Michigan State University__  
@@ -26,9 +26,9 @@ __Home School__
 High School diploma  
 
 
-## Employment
+# Employment
 `Aug. 2019-current`  
-__CENTER FOR LANGUAGE TEACHING ADVANCEMENT, MICHIGAN STATE UNIVERSITY__  
+__Center for Language Teaching Advancement, Michigan State University__  
 *Graduate Assistant*  
 - Conducting surveys and data analysis to investigate faculty attitudes towards Language for Specific Purposes (LSP) classes (to be presented at the CIBER Business Language Conference March 2020).
 - Weekly office hours to advise students on corpus linguistics and analysis, web portfolios, and phonetics.
@@ -61,7 +61,25 @@ __College of Music, Michigan State University__
 - Preparation of rehearsal spaces and concert venues for MSU Symphony Orchestra
 - Communication with orchestra faculty, students, as well as the venue staff at the local performing arts centers.
 
-## Projects
+# Projects
+
+`Aug. 2019 - current`  
+__Phonotactic Learning with Neural Nets__  
+- Training neural networks on phonetic transcriptions of English dictionaries. 
+- Using neural networks to distinguish acceptable English sound combinations and assign acceptability ratings.
+- Measuring model acccuracy by correlation coefficient with human judgments.
+
+`Feb. 2019 - Jul. 2019`  
+__Understanding Speech Production using X-Ray Microbeam Data__  
+- Analyzed oral gestural data from the Wisconsin X-Ray Microbeam corpus.
+- Utilized Matlab and wrote R scripts for data wrangling, preprocessing and statistics.
+- Found a significant effect of speech rate and sound type on gestural overlap of consonants. \[ p<0.01]
+
+`Jan. 2017 - Jan. 2018`  
+__Instructor of Viola__  
+- Instructed viola to orchestra students in East Lansing Public Schools through participation in MSU College of Music string pedagogy program.
+- Mentored students in preparation for school evaluations and competitions.
+
 
 ## Skills
 
@@ -73,9 +91,17 @@ __College of Music, Michigan State University__
 
 
 ## Activities
+`Feb. 2019 - current` *Tutor,* LIN 471 - Sociolinguistics
+`Aug. 2018 - current` *Member,* MSU Linguistics Student Organization
+`Feb. 2018 - current` *Violist (sub),* Lansing Symphony Orchestra
+`Sep. 2019 - Nov. 2019` *Board member (event planning),* Careers and Linguistics at Michigan State
+`Aug. 2018 - Aug. 2019` *Member,* MSU Semantics Group
+`Aug. 2018 - May 2019` *Webmaster, member* MSU PhonoLab
+`Aug. 2018 - May 2019` *Member,* MSU Linguistics Python Group
+
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2019 -->
 
 
