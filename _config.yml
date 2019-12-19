@@ -1,3 +1,5 @@
 name: Isaac Sarver
 markdown: kramdown
 style:  kjhealy
+
+theme: jekyll-theme-minimal
