@@ -4,7 +4,7 @@ title: "Using a Neural Network to Reverse Engineer the Lexile Score"
 date: 2019-12-09
 ---
 
-*This post details my contribution for a final group project in CSE 842 - Natural Language Processing at Michigan State University. My group members were Luke Sperling and Xavier Williams*
+*This post details my contribution for a final group project in CSE 842 - Natural Language Processing at Michigan State University. My group members were Luke Sperling and Xavier Williams.*
 
 Estimating a text’s readability is useful for many reasons! Educators want to know what books are appropriate for their students, authors want to know what reading level their writing fits with to accommodate their target audience, etc. Readability is an arbitrary score which attempts to create a scale to help readers gauge the difficulty a reader might have when encountering a text.  
 
