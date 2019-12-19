@@ -248,5 +248,6 @@ The King James Version (KJV) of the Bible, which is known for its antiquated Eng
 
 Looking forward, it would be possible to create a model that discretizes the scores into smaller bins if the dataset was expanded. It also goes to show that even with all the hype over more recently-conceived embedding schemes, there are many NLP tasks where TF-IDF still gives great results. 
 
+### References
 [^1]:  https://www.totalreader.com/c/content/what-lexile
 [^2]: https://web.stanford.edu/~jurafsky/slp3/
