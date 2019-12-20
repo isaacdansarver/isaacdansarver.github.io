@@ -42,4 +42,4 @@ ul.posts li {
     list-style: none;
 }
 
-@import url(murphy.css);
+@import "murphy.css";
