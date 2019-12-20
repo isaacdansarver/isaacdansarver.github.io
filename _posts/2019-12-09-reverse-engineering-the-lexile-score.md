@@ -21,7 +21,7 @@ The dataset I'll be using had to be built using public domain books from Project
 ## Preprocessing
 Now that the goal is clear, let's import the data and start preprocessing the text.
 
-```python
+{% highlight python %}
 # Import data
 data = []
 for i in range(1, 35):
@@ -87,8 +87,7 @@ def Preprocess(data, test_size):
     return X_train, y_train, X_test, y_test
 
 X_train, y_train, X_test, y_test = Preprocess(data, 1/5)
-
-```
+{% endhighlight %}
 
 There's 41 books total in the dataset, so this preprocessor breaks those books up into 100-word chunks, resulting in ~3,000 chunks for training and testing.  
 Next, I'm going to create a Pandas dataframe with the preprocessed data to further prepare it for model training.
